@@ -15,6 +15,7 @@ import com.plaps.androidcleancode.networking.Service;
 
 import javax.inject.Inject;
 
+// just a comment for test on github ::
 public class HomeActivity extends BaseApp implements HomeView {
 
     private RecyclerView list;
